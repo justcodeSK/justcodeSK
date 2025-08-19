@@ -1,28 +1,29 @@
 name: Generate Pac-Man Contribution Graph
 
 on:
+  # Runs every 24 hours
   schedule:
-    - cron: "0 0 * * *" # Runs once every day at midnight
-  workflow_dispatch: # You can run manually too
+    - cron: "0 0 * * *"
+  # Allows manual trigger
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Generate Pac-Man Graph
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Generate Pac-Man animation
+      - name: Generate Pac-Man Graph
         uses: Platane/snk@v3
         with:
-          github_user_name: justcodesk   # ⚡ replace with your GitHub username
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/pacman-contribution-graph.svg
             dist/pacman-contribution-graph-dark.svg?palette=github-dark
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
+      - name: Push Pac-Man Graph to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
