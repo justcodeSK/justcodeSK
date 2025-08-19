@@ -2,21 +2,21 @@ name: Generate Pac-Man Contribution Graph
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every day at midnight
-  workflow_dispatch: # Allow manual trigger
+    - cron: "0 0 * * *" # Runs once every day at midnight
+  workflow_dispatch: # You can run manually too
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Generate Pac-Man
+    name: Generate Pac-Man Graph
     steps:
-      - name: Checkout repository
+      - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Generate Pac-Man graph
+      - name: Generate Pac-Man animation
         uses: Platane/snk@v3
         with:
-          github_user_name: justcodesk   # Change to your GitHub username
+          github_user_name: justcodesk   # ⚡ replace with your GitHub username
           outputs: |
             dist/pacman-contribution-graph.svg
             dist/pacman-contribution-graph-dark.svg?palette=github-dark
