@@ -4,11 +4,27 @@
 ###
 
 <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70A8D&center=true&vCenter=true&width=500&lines=Certified+Django+Full+Stack+Developer;Cyber+Security+%7C+ML+%7C+AI+Explorer;Building+AI-Powered+Secure+Apps;Always+Learning+%26+Growing" alt="Typing Animation" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+</div>
+
+---
+
+### ⚡ Tech Stack  
+
+<div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=django" height="60" alt="django logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="60" alt="flask logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" height="60" alt="flask logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
   <img width="12" />
@@ -33,25 +49,29 @@
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
 </div>
 
-###
+---
+
+### 🌐 Connect with Me  
 
 <div align="center">
   <a href="https://www.linkedin.com/in/sooraj-kadavath-666a60246/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
   </a>
   <a href="mailto:soorajkadavath25@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" />
   </a>
 </div>
 
-###
+---
+
+### 📊 GitHub Analytics  
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=justcodesk&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=justcodesk&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://streak-stats.demolab.com?user=justcodesk&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=justcodesk&theme=dracula&column=-1&row=1&no-bg=false&no-frame=false" height="150" alt="trophy graph"  />
 </div>
 
-###
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/justcodesk/justcodesk/output/pacman-contribution-graph-dark.svg">
@@ -86,3 +106,24 @@
 - **English**: Advanced  
 - **Hindi**: Intermediate  
 - **Tamil**: Intermediate  
+
+---
+
+<!-- 🌊 Animated Wave Footer (inline SVG) -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" width="100%" height="140" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="grad" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0%" stop-color="#F70A8D"/>
+      <stop offset="100%" stop-color="#01C6FF"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#grad)" d="M0,120 C300,180 900,60 1200,120 L1200,200 L0,200 Z">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite"
+      values="
+        M0,120 C300,180 900,60 1200,120 L1200,200 L0,200 Z;
+        M0,100 C300,60 900,200 1200,100 L1200,200 L0,200 Z;
+        M0,120 C300,180 900,60 1200,120 L1200,200 L0,200 Z
+      "/>
+  </path>
+</svg>
+
