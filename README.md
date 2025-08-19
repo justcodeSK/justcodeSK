@@ -1,4 +1,6 @@
-<h1 align="center">Hey 👋 What's Up? I'm Sooraj Kadavath</h1>
+<!-- 🌊 Wave Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F70A8D&height=300&section=header&text=Hey%20👋%20What's%20Up?%20I'm%20Sooraj&fontSize=50&fontColor=ffffff" width="100%"/>
+
 <h3 align="center">Certified Django Full Stack Developer | Cybersecurity & AI-Powered Security Enthusiast</h3>
 
 ###
@@ -107,23 +109,5 @@
 - **Hindi**: Intermediate  
 - **Tamil**: Intermediate  
 
----
-
-<!-- 🌊 Animated Wave Footer (inline SVG) -->
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" width="100%" height="140" preserveAspectRatio="none">
-  <defs>
-    <linearGradient id="grad" x1="0" x2="1" y1="0" y2="0">
-      <stop offset="0%" stop-color="#F70A8D"/>
-      <stop offset="100%" stop-color="#01C6FF"/>
-    </linearGradient>
-  </defs>
-  <path fill="url(#grad)" d="M0,120 C300,180 900,60 1200,120 L1200,200 L0,200 Z">
-    <animate attributeName="d" dur="8s" repeatCount="indefinite"
-      values="
-        M0,120 C300,180 900,60 1200,120 L1200,200 L0,200 Z;
-        M0,100 C300,60 900,200 1200,100 L1200,200 L0,200 Z;
-        M0,120 C300,180 900,60 1200,120 L1200,200 L0,200 Z
-      "/>
-  </path>
-</svg>
-
+<!-- 🌊 Wave Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F70A8D&height=120&section=footer" width="100%"/>
