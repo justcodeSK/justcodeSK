@@ -13,12 +13,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://media4.giphy.com/media/MD0svLSDeudszrNrp0/giphy.gif" width="500" alt="Hacker Animation"/>
-</div>
-
----
-
 ### ⚡ Tech Stack  
 
 <div align="center">
