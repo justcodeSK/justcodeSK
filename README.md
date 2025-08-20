@@ -142,7 +142,7 @@
 - Implemented **cybersecurity measures** and conducted penetration testing to strengthen system security  
 - Designed and delivered **responsive UI/UX** using Bootstrap, Tailwind CSS, and modern JavaScript frameworks  
 - Collaborated on **team-based project management** and supported deployment in Linux-based environments
-- 
+
 ---
 
 ##  Languages  
