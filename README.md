@@ -104,7 +104,7 @@
 </a>
 <!-- 🌐 Top Languages -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justcodesk&layout=compact&theme=radical&hide_border=true&border_radius=15" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justcodeSK&layout=compact&theme=radical&hide_border=true&border_radius=15" height="160" alt="Top Languages" />
 </a>
 </div>
 
