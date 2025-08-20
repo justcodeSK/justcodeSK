@@ -100,7 +100,7 @@
 <div align="center">
 <!-- 🔥 Streak Stats -->
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=justcodesk&theme=radical&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D" height="160" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=justcodeSK&theme=radical&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D" height="160" alt="GitHub Streak" />
 </a>
 <!-- 🌐 Top Languages -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -113,7 +113,7 @@
 <div align="center">
 <!-- 🏆 GitHub Trophies -->
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=justcodesk&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" width="100%" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=justcodeSK&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" width="100%" alt="GitHub Trophies"/>
 </a>
 </div>
 
