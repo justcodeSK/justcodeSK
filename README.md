@@ -18,7 +18,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=django" height="60" alt="django logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" height="60" alt="flask logo" />
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/flask.png" alt="Flask icon" height="50" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
   <img width="12" />
