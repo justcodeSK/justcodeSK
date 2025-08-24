@@ -105,7 +105,8 @@
 ---
 
 <!-- 🐍 Snake Game -->
-<img src="https://github.com/justcodeSK/justcodeSK/blob/output/github-snake-dark.svg" width="100%"/>
+<!--<img src="https://github.com/justcodeSK/justcodeSK/blob/output/github-snake-dark.svg" width="100%"/> -->
+<img src="https://github.com/justcodeSK/justcodeSK/blob/main/snake.svg" alt="Snake animation" width="100%">
 
 ---
 
