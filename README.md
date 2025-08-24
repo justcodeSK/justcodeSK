@@ -80,12 +80,13 @@
 
 <div align="center">
 
-<!-- Top Languages (Updated for more accuracy) -->
+<!-- Top Languages (More Accurate Stats) -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justcodeSK&langs_count=10&layout=compact&theme=radical&hide_border=true&border_radius=15&hide_progress=false&count_private=true" height="220"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justcodeSK&langs_count=20&layout=compact&theme=radical&hide_border=true&border_radius=15&hide_progress=false&count_private=true&include_all_commits=true" height="220"/>
 </a>
 
-<!-- If you want to exclude certain repos, add: &exclude_repo=repo1,repo2 -->
+<!-- Optional: Exclude specific repos -->
+<!-- Add &exclude_repo=repo1,repo2 to the URL if needed -->
 
 </div>
 
