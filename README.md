@@ -13,7 +13,7 @@
 
 ---
 
-## 🛠️ Tech Stack  
+##  Tech Stack  
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,django,flask,js,html,css,bootstrap,tailwind,angular,mysql,postgres,mongodb,linux,git" height="60" />
@@ -27,7 +27,7 @@
 
 ---
 
-## 🌐 Connect With Me  
+##  Connect With Me  
 
 <div align="center">
 
@@ -60,7 +60,7 @@
 
 ---
 
-## 📊 GitHub Analytics  
+##  GitHub Analytics  
 
 <div align="center">
 
@@ -80,16 +80,18 @@
 
 <div align="center">
 
-<!-- Top Languages -->
+<!-- Top Languages (Updated for more accuracy) -->
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justcodeSK&layout=compact&theme=radical&hide_border=true&border_radius=15" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justcodeSK&langs_count=10&layout=compact&theme=radical&hide_border=true&border_radius=15&hide_progress=false&count_private=true" height="220"/>
 </a>
+
+<!-- If you want to exclude certain repos, add: &exclude_repo=repo1,repo2 -->
 
 </div>
 
 ---
 
-## 🏆 Custom Achievements  
+##  Custom Achievements  
 
 <div align="center">
 
@@ -107,7 +109,7 @@
 
 ---
 
-## 🚀 About Me  
+##  About Me  
 
 - 🔒 Currently engaged in **Cybersecurity & AI-powered defense projects**  
 - 📊 Exploring **Advanced Cybersecurity, Data Science & ML integration**  
@@ -118,7 +120,7 @@
 
 ---
 
-## 💼 Experience  
+##  Experience  
 
 **Full Stack Python Django Developer (6 Months)**  
 - Built & deployed **scalable web apps** with Django, Flask & REST APIs  
@@ -129,7 +131,7 @@
 
 ---
 
-## 🌍 Languages  
+##  Languages  
 
 <div align="center">
 
