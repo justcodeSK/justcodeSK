@@ -63,20 +63,39 @@
 ## 📊 GitHub Analytics  
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=justcodeSK&theme=radical&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D" height="160" alt="GitHub Streak"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justcodeSK&layout=compact&theme=radical&hide_border=true&border_radius=15" height="160" alt="Top Languages"/>
-  </a>
+
+<!-- GitHub Stats -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=justcodeSK&show_icons=true&theme=radical&hide_border=true&border_radius=15" height="180"/>
+</a>
+
+<!-- GitHub Streak -->
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=justcodeSK&theme=radical&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D" height="180"/>
+</a>
+
 </div>
 
 ---
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=justcodeSK&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" width="100%" alt="GitHub Trophies"/>
-  </a>
+
+<!-- Top Languages -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justcodeSK&layout=compact&theme=radical&hide_border=true&border_radius=15" height="180"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- GitHub Achievements (Alternative to Trophy) -->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-achievements.vercel.app/api/badge/justcodeSK?theme=radical&no-frame=true&margin-w=10&margin-h=10" height="120"/>
+</a>
+
 </div>
 
 ---
