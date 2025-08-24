@@ -89,12 +89,14 @@
 
 ---
 
+## 🏆 Custom Achievements  
+
 <div align="center">
 
-<!-- GitHub Achievements (Alternative to Trophy) -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-achievements.vercel.app/api/badge/justcodeSK?theme=radical&no-frame=true&margin-w=10&margin-h=10" height="120"/>
-</a>
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-blueviolet?style=for-the-badge&logo=github)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Researcher-critical?style=for-the-badge&logo=linux)
+![Full Stack](https://img.shields.io/badge/Full%20Stack-Developer-success?style=for-the-badge&logo=python)
+![AI Explorer](https://img.shields.io/badge/AI-Explorer-00C9FF?style=for-the-badge&logo=opencv)
 
 </div>
 
