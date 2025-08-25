@@ -71,7 +71,7 @@
 
 <!-- GitHub Streak -->
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=justcodeSK&theme=radical&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D" height="180"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=justcodeSK&theme=radical&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D" height="180"/>
 </a>
 
 </div>
