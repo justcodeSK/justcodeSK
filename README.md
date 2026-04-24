@@ -1,29 +1,58 @@
 <!-- 🌊 Wave + Blur Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=300&section=header&text=Hey,%20I'm%20Sooraj&fontSize=50&fontColor=ffffff&animation=fadeIn&reversal=true&fontAlignY=40&desc=Cybersecurity%20%7C%20AI%20%7C%20ML%20%7C%20Development%20%7C%20Tools&descSize=20&descAlignY=65&blur=0.5" width="100%"/>
 
-<h3 align="center">🚀 Certified Django Full Stack Developer | Cybersecurity & AI-Powered Security Enthusiast</h3>
-
-###
+<h3 align="center">🚀 Cybersecurity & ML Enthusiast | AI-Based Threat Detection | Python Full Stack Developer</h3>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=550&lines=Certified+Django+Full+Stack+Developer;Cyber+Security+%7C+ML+%7C+AI+Explorer;Building+AI-Powered+Secure+Apps;Always+Learning+%26+Growing" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C9FF&center=true&vCenter=true&width=550&lines=Cybersecurity+%7C+Machine+Learning;Building+Threat+Detection+Systems;Detection+Engineering+%7C+SOC+Projects;Always+Learning+%26+Growing" alt="Typing Animation" />
   </a>
 </div>
 
 ---
 
-##  Tech Stack  
+## 🛠️ Tech Stack  
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,django,flask,js,html,css,bootstrap,tailwind,angular,mysql,postgres,mongodb,linux,git" height="60" />
+  <img src="https://skillicons.dev/icons?i=py,django,flask,js,tailwind,postgres,linux,bash,git" height="60" />
 </div>
 
 ---
 
+## 🛡️ Cybersecurity Tools  
+
 <div align="center">
-  <img src="assets/hacker-analysis.gif" width="600" height="300" />
+
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Web%20Security-orange?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analysis-blue?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-Network%20Scanning-critical?style=for-the-badge)
+
 </div>
+
+---
+
+## 🔍 Currently Working On  
+
+<table>
+<tr>
+<td width="60%">
+
+### 🛡️ Detection Engineering Platform (SOC Project)
+
+- Building a platform to track **detection coverage using MITRE ATT&CK**
+- Identifying **detection gaps** across attack techniques
+- Developing support for **custom detection rules (Sigma / Splunk)**
+- Focused on improving **SOC visibility, threat detection, and response readiness**
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -77,18 +106,21 @@
 
 ---
 
-##  Custom Achievements  
+## 🏆 Key Achievements  
 
 <div align="center">
 
-![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-blueviolet?style=for-the-badge&logo=github)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Researcher-critical?style=for-the-badge&logo=linux)
-![Full Stack](https://img.shields.io/badge/Full%20Stack-Developer-success?style=for-the-badge&logo=python)
-![AI Explorer](https://img.shields.io/badge/AI-Explorer-00C9FF?style=for-the-badge&logo=opencv)
+![Attack Net Zero](https://img.shields.io/badge/Project-Attack%20Net%20Zero-blueviolet?style=for-the-badge)
+![DDoS Detection](https://img.shields.io/badge/ML-DDoS%20Detection%20(99.4%25)-brightgreen?style=for-the-badge)
+![IDS System](https://img.shields.io/badge/IDS-Anomaly%20Detection%20%26%20Prevention-blue?style=for-the-badge)
+![Ensemble Models](https://img.shields.io/badge/ML-Stacking%20%2B%20Ensemble-orange?style=for-the-badge)
+![PortSwigger](https://img.shields.io/badge/PortSwigger-SQLi%20Labs%20Completed-critical?style=for-the-badge)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-Rooms%20Completed-red?style=for-the-badge&logo=tryhackme)
 
 </div>
 
 ---
+
 
 <!-- 🐍 Snake Game -->
 <!--<img src="https://github.com/justcodeSK/justcodeSK/blob/output/github-snake-dark.svg" width="100%"/> -->
@@ -103,7 +135,7 @@
 - 🤝 Open to collaboration on **AI, ML, and Security-focused projects**  
 - 📂 Access my work: [GitHub Portfolio](https://github.com/justcodeSK)  
 - 🛡️ Expertise: **Django, Cybersecurity, Data Science & ML, Network Security, Python, REST APIs, UI/UX, Kali Linux Tools**  
-- 📧 Contact: **soorajkadavath25@gmail.com**  
+- 📧 Contact: **soorajkadavath26@gmail.com**  
 
 ---
 
