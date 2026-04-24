@@ -19,6 +19,10 @@
 
 ---
 
+🛡️ Expertise: **Django, Cybersecurity, Data Science & ML, Network Security, OSINT, Packet Inspection, Reconnaissance, Python, REST APIs, Linux, Git**
+  
+---
+
 ## 🛡️ Cybersecurity Tools  
 
 <div align="center">
@@ -121,13 +125,6 @@
 
 ---
 
-
-<!-- 🐍 Snake Game -->
-<!--<img src="https://github.com/justcodeSK/justcodeSK/blob/output/github-snake-dark.svg" width="100%"/> -->
-<img src="https://github.com/justcodeSK/justcodeSK/blob/main/snake.svg" alt="Snake animation" width="100%">
-
----
-
 ##  About Me  
 
 - 🔒 Currently engaged in **Cybersecurity & AI-powered defense projects**  
@@ -139,25 +136,26 @@
 
 ---
 
-##  Experience  
+## 💼 Experience  
 
-**Full Stack Python Django Developer (6 Months)**  
-- Built & deployed **scalable web apps** with Django, Flask & REST APIs  
-- Integrated **ML models** into production apps for real-time predictions  
-- Applied **penetration testing & cybersecurity measures**  
-- Designed **responsive UIs** with Tailwind, Bootstrap, and Angular  
-- Collaborated in **Linux-based deployments & version control (Git)**  
+**Software Engineer Apprentice | Quest Innovative Solutions (6 Months)**  
+- Developed backend applications using Django & Flask, built REST APIs, and handled SQL-based database operations  
+- Applied OOP principles and collaborated using Git in a structured development workflow  
+---
+
+<!-- 🐍 Snake Game -->
+<!--<img src="https://github.com/justcodeSK/justcodeSK/blob/output/github-snake-dark.svg" width="100%"/> -->
+<img src="https://github.com/justcodeSK/justcodeSK/blob/main/snake.svg" alt="Snake animation" width="100%">
 
 ---
 
-##  Languages  
+## 🌐 Languages  
 
 <div align="center">
 
-![Malayalam](https://img.shields.io/badge/Malayalam-Native-success?style=for-the-badge)  
-![English](https://img.shields.io/badge/English-Advanced-blue?style=for-the-badge)  
-![Hindi](https://img.shields.io/badge/Hindi-Intermediate-orange?style=for-the-badge)  
-![Tamil](https://img.shields.io/badge/Tamil-Intermediate-yellow?style=for-the-badge)  
+![Malayalam](https://img.shields.io/badge/Malayalam-Native-success?style=for-the-badge)
+![English](https://img.shields.io/badge/English-Advanced-blue?style=for-the-badge)
+![Hindi](https://img.shields.io/badge/Hindi-Intermediate-orange?style=for-the-badge)
 
 </div>
 
