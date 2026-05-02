@@ -14,7 +14,7 @@
 ## 🛠️ Tech Stack  
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,django,flask,js,tailwind,postgres,linux,bash,git" height="60" />
+  <img src="https://skillicons.dev/icons?i=py,c,java,js,html,css,django,flask,bootstrap,postgres,windows,kali,bash,git,vscode" height="60" />
 </div>
 
 ---
