@@ -78,33 +78,17 @@
 
 ---
 
-##  GitHub Analytics  
+## GitHub Analytics  
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=justcodeSK&show_icons=true&theme=radical&hide_border=true&border_radius=15" height="180"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=justcodeSK&show_icons=true&theme=radical&hide_border=true&border_radius=15&cache_seconds=1800" height="180"/>
 
-<!-- GitHub Streak -->
-<a href="https://git.io/streak-stats">
- <img src="https://github-readme-streak-stats.herokuapp.com?user=justcodeSK&theme=radical&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D" height="180"/>
-</a>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=justcodeSK&layout=compact&theme=radical&hide_border=true" height="220"/>
 
-</div>
+<img src="https://streak-stats.demolab.com?user=justcodeSK&theme=radical&hide_border=true&border_radius=15" height="180"/>
 
----
-
-<div align="center">
-
-<!-- Top Languages (More Accurate Stats) -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justcodeSK&langs_count=20&layout=compact&theme=radical&hide_border=true&border_radius=15&hide_progress=false&count_private=true&include_all_commits=true" height="220"/>
-</a>
-
-<!-- Optional: Exclude specific repos -->
-<!-- Add &exclude_repo=repo1,repo2 to the URL if needed -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=justcodeSK&show_icons=true&theme=radical&hide_border=true" height="180"/>
 
 </div>
 
